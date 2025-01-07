@@ -13,6 +13,6 @@ I started my career at [NI](https://www.ni.com/en.html), working on WebView. As 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-mallesh-639528133/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_sushh_)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://sushispot.xyz/)
+[![🍥 sushispot](https://img.shields.io/badge/🍥_sushispot-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://sushispot.xyz/)
 
 </div>
