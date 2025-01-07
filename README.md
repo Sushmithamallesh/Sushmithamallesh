@@ -9,9 +9,6 @@ Previously, I worked as a Software Engineer at [Bureau.id](https://www.bureau.id
 
 I started my career at [NI](https://www.ni.com/en.html), working on WebView. As part of a five-member WebView team, I helped build a solution to port the G language (NI's proprietary language) compiler, written in C++, to the web using WASM. I also worked on developing essential debugging tools and features, including breakpoints and probes, to enhance the developer experience.
 
-[Twitter](https://x.com/_sushh_)
-
-[LinkedIn](https://www.linkedin.com/in/sushmitha-mallesh-639528133/)
-
-[My Website](https://sushispot.xyz/)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/_sushh_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmitha-mallesh-639528133/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sushispot.xyz/)
