@@ -1,6 +1,5 @@
 ## Hey! I'm Sushmitha Mallesh 👋
 
-I have won and I have lost!
 <div align="center">
 
 [![🍥 sushispot](https://img.shields.io/badge/🍥_sushispot-4D54FB?style=flat-square)](https://sushispot.xyz/)
